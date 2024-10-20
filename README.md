@@ -1,2 +1,2 @@
 # Calculator
- Calculator with sin, tan and cos calculations available.
+ A calculator with sin, tan and cos calculations available.
