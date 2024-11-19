@@ -2,13 +2,13 @@
 A simple, interactive calculator built with HTML, CSS, and JavaScript, supporting both basic arithmetic and trigonometric functions (sin, cos, tan). This project aims to provide a straightforward yet functional calculator that works directly in the browser.
 
 ## Features
-**Basic Operations:** Addition, subtraction, multiplication, and division.
+- **Basic Operations:** Addition, subtraction, multiplication, and division.
 
-**Trigonometric Functions:** Calculate sin, cos, and tan of angles.
+- **Trigonometric Functions:** Calculate sin, cos, and tan of angles.
 
-**Responsive Design:** Designed to work well on both desktops and mobile devices.
+- **Responsive Design:** Designed to work well on both desktops and mobile devices.
 
-**Clear and Delete Functionality:** Easily clear entries or reset the entire calculator.
+- **Clear and Delete Functionality:** Easily clear entries or reset the entire calculator.
 
 ## Technologies Used
 **HTML5:** Structure and layout of the calculator.
