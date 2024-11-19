@@ -11,7 +11,9 @@ Clear and Delete Functionality: Easily clear entries or reset the entire calcula
 
 ## Technologies Used
 **HTML5:** Structure and layout of the calculator.
+
 **CSS3:** Styling for the calculator interface.
+
 **JavaScript:** Logic for calculations and interactions.
 
 ## Usage
