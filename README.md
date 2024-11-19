@@ -20,9 +20,9 @@ Clear and Delete Functionality: Easily clear entries or reset the entire calcula
 **Basic Calculations:** Use the number and operation buttons to perform basic arithmetic.
 
 **Trigonometric Calculations:**
-Enter an angle (in degrees or radians, depending on your configuration).
-Press the sin, cos, or tan button to calculate the respective trigonometric value.
-Clear and Reset: Use the C button to clear the last entry or the AC button to reset the entire calculation.
+Enter an angle (in degrees or radians, depending on your configuration). Press the sin, cos, or tan button to calculate the respective trigonometric value.
+
+**Clear and Reset:** Use the C button to clear the last entry or the AC button to reset the entire calculation.
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the calculator, add new features, or improve the code, feel free to submit a pull request. Please make sure your code follows best practices and is well-documented.
