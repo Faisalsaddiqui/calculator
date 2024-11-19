@@ -7,7 +7,8 @@ A simple, interactive calculator built with HTML, CSS, and JavaScript, supportin
 **Trigonometric Functions:** Calculate sin, cos, and tan of angles.
 
 **Responsive Design:** Designed to work well on both desktops and mobile devices.
-Clear and Delete Functionality: Easily clear entries or reset the entire calculator.
+
+**Clear and Delete Functionality:** Easily clear entries or reset the entire calculator.
 
 ## Technologies Used
 **HTML5:** Structure and layout of the calculator.
