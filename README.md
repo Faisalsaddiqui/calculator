@@ -18,6 +18,7 @@ Clear and Delete Functionality: Easily clear entries or reset the entire calcula
 
 ## Usage
 **Basic Calculations:** Use the number and operation buttons to perform basic arithmetic.
+
 **Trigonometric Calculations:**
 Enter an angle (in degrees or radians, depending on your configuration).
 Press the sin, cos, or tan button to calculate the respective trigonometric value.
