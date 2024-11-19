@@ -18,12 +18,12 @@ A simple, interactive calculator built with HTML, CSS, and JavaScript, supportin
 **JavaScript:** Logic for calculations and interactions.
 
 ## Usage
-**Basic Calculations:** Use the number and operation buttons to perform basic arithmetic.
+- **Basic Calculations:** Use the number and operation buttons to perform basic arithmetic.
 
-**Trigonometric Calculations:**
+- **Trigonometric Calculations:**
 Enter an angle (in degrees or radians, depending on your configuration). Press the sin, cos, or tan button to calculate the respective trigonometric value.
 
-**Clear and Reset:** Use the C button to clear the last entry or the AC button to reset the entire calculation.
+- **Clear and Reset:** Use the C button to clear the last entry or the AC button to reset the entire calculation.
 
 ## Contributing
 Contributions are welcome! If you'd like to enhance the calculator, add new features, or improve the code, feel free to submit a pull request. Please make sure your code follows best practices and is well-documented.
